@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+build/mywebrtc/Debug/*
+build/mywebrtc/.vs/*
+build/mywebrtc/p2pserver/Debug/*
